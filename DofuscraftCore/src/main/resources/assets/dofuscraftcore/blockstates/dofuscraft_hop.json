@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "dofuscraftcore:hop_stage1"
+    },
+    "age=1": {
+      "model": "dofuscraftcore:hop_stage2"
+    },
+    "age=2": {
+      "model": "dofuscraftcore:hop_stage3"
+    },
+    "age=3": {
+      "model": "dofuscraftcore:hop_stage4"
+    }
+  }
+}

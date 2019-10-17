@@ -1,0 +1,15 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "forge:fluid"
+  },
+  "variants": {
+    "normal": [
+      {
+        "custom": {
+          "fluid": "newa_area_water"
+        }
+      }
+    ]
+  }
+}

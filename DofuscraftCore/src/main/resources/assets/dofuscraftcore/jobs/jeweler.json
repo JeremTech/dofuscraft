@@ -1,0 +1,47 @@
+{
+  "1" : {
+    "resource" : "dofuscraftcore:miner_book",
+    "level" : 10,
+    "location" : "Astcube"
+  },
+  "2" : {
+    "resource" : "dofuscraftcore:kamas10",
+    "level" : 12,
+    "location" : "Miam"
+  },
+  "3" : {
+    "resource" : "dofuscraftcore:aminite_volve",
+    "level" : 13,
+    "location" : "Jerem is .txt"
+  },
+  "4" : {
+    "resource" : "dofuscraftcore:potable_water",
+    "level" : 14,
+    "location" : "Test"
+  },
+  "5" : {
+    "resource" : "dofuscraftcore:tofu_egg",
+    "level" : 15,
+    "location" : "jkhsgkl"
+  },
+  "6" : {
+    "resource" : "dofuscraftcore:gold_stairs",
+    "level" : 20,
+    "location" : "jkhsgkl"
+  },
+  "7" : {
+    "resource" : "dofuscraftcore:tin_regen",
+    "level" : 40,
+    "location" : "jkhsgkl"
+  },
+  "8" : {
+    "resource" : "dofuscraftcore:copper_regen",
+    "level" : 80,
+    "location" : "jkhsgkl"
+  },
+  "9" : {
+    "resource" : "dofuscraftcore:log_ash_regen",
+    "level" : 200,
+    "location" : "jkhsgkl"
+  }
+}

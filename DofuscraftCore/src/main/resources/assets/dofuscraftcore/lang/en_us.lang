@@ -1,0 +1,288 @@
+//JEI
+crafting.dofuscraft=Dofuscraft Crafting
+
+//GUI
+itemGroup.DCTabItems=Dofuscraft - Items
+itemGroup.DCTabBlocks=Dofuscraft - Blocs
+
+gui.label.player=Players
+gui.label.class=Class
+gui.label.level=Level :
+gui.label.job=Job
+gui.label.page=Page
+gui.label.name=Name :
+gui.label.damage=Damage :
+gui.label.reward=Reward :
+
+menu.play=Play
+menu.staff.singleplayer=Singleplayer
+menu.staff.local_server=Local server
+menu.staff.multiplayer=Multiplayer
+menu.staff.back=Back
+menu.info.impossible=Can not get remote information
+
+dc.container.craftingtable.job=Job:
+dc.container.craftingtable.level=Level:
+dc.container.craftingtable.xp=XP
+
+gui.classe.reset=Change class
+gui.classe.reset.yes=Yes
+gui.classe.reset.no=No
+gui.classe.reset.warning=WARNING !!!
+gui.classe.reset.disclamer=This is definitive !
+gui.classe.reset.disclamer.xp=(XP will be reset)
+gui.class.selection=Select your class :
+
+gui.player_info.classe.any=Any
+
+//Jobs
+
+job.alchemist=Alchemist
+job.lumberjack=LumberJack
+job.miner=Miner
+job.peasant=Peasant
+job.jeweler=Jeweler
+job.tailor=Tailor
+job.shoemaker=Shoe Maker
+
+//Blocks
+
+tile.bonta_slab_half.name=Bonta Bricks Slab
+tile.brakmar_slab_half.name=Brakmar Bricks Slab
+tile.gold_slab_half.name=Gold Slab
+tile.invisible_light.name=Invisible Lamp
+tile.stone_slab_block.name=Stone Slab Block
+tile.sandstone_slab_block.name=Sandstone Slab Block
+tile.bonta_stairs.name=Bonta Bricks Stairs
+tile.brakmar_stairs.name=Brakmar Bricks Stairs
+tile.gold_stairs.name=Gold Stairs
+tile.dofuscraft_crafting_table.name=Dofuscraft Crafting Table
+tile.pink_leaves.name=Pink Leaves
+tile.brick_bonta.name=Bonta Bricks
+tile.brick_brakmar.name=Brakmar Bricks
+
+//Books
+item.alchemist_book.name=Alchemist Book
+item.lumberjack_book.name=Lumberjack Book
+item.miner_book.name=Miner Book
+item.peasant_book.name=Peasant Book
+item.jeweler_book.name=Jeweler Book
+item.tailor_book.name=Tailor Book
+item.shoemaker_book.name=ShoeMaker Book
+
+//Items
+
+item.aminite_volve.name=Aminite Volve
+item.mushroom.name=Mushroom
+item.intangible_meat.name=Intangible Meat
+item.celestial_wool.name=Celestial Wool
+item.bouftou_spit.name=Bouftou Spit
+item.internal_fire.name=Internal Fire
+item.eternal_ash.name=Eternal Ash
+item.incraftam_relic.name=Incraftam Relic
+item.chafer_bone.name=Chafer Bone
+item.chapardam_tail.name=Chapardam Tail
+item.gloot_skin.name=Gloot Skin
+item.potable_water.name=Potable Water
+item.kardorim_skull.name=Kardorim Skull
+item.diaphane_petal.name=Diaphane Petal
+item.tofu_egg.name=Tofu Egg
+item.chimeric_feather.name=Chimeric Feather
+item.milimulou_hair.name=Milimulou Hair
+item.milimulou_scalp.name=Milimulou Scalp
+item.magical_cure.name=Perlinpainpain Powder
+item.intangible_bidoche.name=Intangible Bidoche
+item.frelated_meat.name=Frelated Meat
+item.baker_yeast.name=Baker Yeast
+item.small_care_potion.name=Small care potion
+item.agglomerated_planks.name=Agglomerated Plank
+item.ferrite.name=Ferrite
+
+item.incraftam_bread.name=Incraftam Bread
+item.michette.name=Michette
+
+item.grobid_potion.name=Grobid Potion
+
+//Fluids
+
+fluid.purple_liquid=Purple Water
+fluid.blue_soul_incraftam=Blue Soul Incraftam Water
+fluid.merdroite_water=Merdroite Water
+fluid.pichon_water=Pichon Water
+fluid.newa_area_water=Newa Area Water
+fluid.incraftam_lake_water=Incraftam Lake Water
+
+//Kamas
+
+item.kamas.name=Kamas
+item.kamas10.name=Bag of 10 Kamas
+item.kamas100.name=Bag of 100 Kamas
+item.kamas1k.name=Chest of 1 000 Kamas
+item.kamas10k.name=Chest of 10 000 Kamas
+item.kamas100k.name=Pack of 100 000 Kamas
+
+//Crops
+
+item.wheat.name=Wheat
+item.barley.name=Barley
+item.oats.name=Oats
+item.hop.name=Hop
+item.flax.name=Flax
+item.rye.name=Rye
+item.hemp.name=Hemp
+tile.dofuscraft_wheat.name=Wheat
+tile.dofuscraft_barley.name=Barley
+tile.dofuscraft_oats.name=Oats
+tile.dofuscraft_hop.name=Hop
+tile.dofuscraft_flax.name=Flax
+tile.dofuscraft_rye.name=Rye
+tile.dofuscraft_hemp.name=Hemp
+
+//Plants
+
+tile.small_nettle.name=Cut Nettle
+tile.nettle.name=Nettle
+tile.small_edelweiss.name=Cut Edelweiss
+tile.edelweiss.name=Edelweiss
+tile.small_freyesque_orchid.name=Cut Freyesque Orchid
+tile.freyesque_orchid.name=Freyesque Orchid
+tile.small_wild_mint.name=Cut Wild Mint
+tile.wild_mint.name=Wild Mint
+tile.small_sage.name=Cut Sage
+tile.sage.name=Sage
+tile.small_five_leaf_clover.name=Cut Five Leaf Clover
+tile.five_leaf_clover.name=Five Leaf Clover
+item.five_leaf_clover_item.name=Five Leaf Clover
+item.edelweiss_item.name=Edelweiss
+item.freyesque_orchid_item.name=Freyesque Orchid
+item.nettles_item.name=Nettle
+item.sage_item.name=Sage
+item.wild_mint_item.name=Wild Mint
+
+//Ores
+
+item.iron.name=Iron
+item.copper.name=Copper
+item.bronze.name=Bronze
+item.cobalt.name=Kobalte
+item.tin.name=Tin
+tile.kobalt_regen.name=Rest of Kobalt Ore
+tile.kobalt_ore.name=Kobalt Ore
+tile.copper_regen.name=Rest of Copper Ore
+tile.copper_ore.name=Copper Ore
+tile.iron_regen.name=Rest of Iron Ore
+tile.iron_ore.name=Iron Ore
+tile.tin_regen.name=Rest of Tin Ore
+tile.tin_ore.name=Tin Ore
+tile.bronze_regen.name=Rest of Bronze Ore
+tile.bronze_ore.name=Bronze Ore
+
+//Logs
+
+tile.log_ash.name=Ash Wood
+tile.log_ash_regen.name=Ash Wood (Regenerator)
+
+//Class's Items
+item.masdaigat_sword.name=Masdaigat Sword
+item.eniripsa_potion.name=Eniripsa Potion
+item.feca_shield.name=Feca Shield
+
+//Messages
+
+dofuscraft.alchemist.break.error=You must have the alchemist level %s to get this resource !
+dofuscraft.lumberjack.break.error=You must have the lumberjack level %s to get this resource !
+dofuscraft.miner.break.error=You must have the miner level %s to get this resource !
+dofuscraft.peasant.break.error=You must have the peasant level %s to get this resource !
+
+//Level Command
+
+dofuscraft.commands.niveau.success=%s %s %s to the player %s for the job "%s"
+dofuscraft.commands.sousniveau.success=%s %s %s to the player %s
+dofuscraft.commands.niveau.usage=/niveau <niveau|sniveau> <add|remove> <job> <nbrXP> <player>
+dofuscraft.commands.niveau.error=Missing arguments : /niveau <niveau|sniveau> <add|remove> <job> <nbrXP> <player>
+dofuscraft.commands.niveau.joberror=%s is not a valid profession
+
+dofuscraft.commands.niveau.niveauone=level has been
+dofuscraft.commands.niveau.niveau=levels has been
+dofuscraft.commands.niveau.sousniveauone=sub level has been
+dofuscraft.commands.niveau.sousniveau=sub levels has been
+dofuscraft.commands.niveau.addone=added
+dofuscraft.commands.niveau.add=added
+dofuscraft.commands.niveau.removeone=remove
+dofuscraft.commands.niveau.remove=remove
+
+//Classe command
+
+dofuscraft.commands.classe.success=The class with ID "%s" has been set to %s
+dofuscraft.commands.classe.reset=%s's statistics has been successfully reset
+dofuscraft.commands.classe.usage=/classe <set|reset> <player> <id>
+dofuscraft.commands.classe.error=Missing arguments : /classe <set|reset> <player> <id>
+dofuscraft.commands.classe.iderror=%s is not a valid class
+
+//Display command
+
+dofuscraft.commands.display.success=The GUI "%s" has been successfully display to %s
+dofuscraft.commands.display.error=Missing arguments : /display <gui> <player>
+dofuscraft.commands.display.usage=/display <gui> <player>
+dofuscraft.commands.display.guierror="%s" is not a valid GUI !
+
+//Tooltip
+
+tooltip.book.level=Level
+
+//Keyboards
+
+key.dofuscraft=Dofuscraft
+key.dofuscraft.player_stats=Display Player's Informations
+
+//Spells
+
+spell.pression.name=Pression
+spell.flood.name=Flood
+spell.divin_sword.name=Divin Sword
+spell.jump.name=Jump
+
+spell.injuring_word.name=Injuring Word
+spell.alternative_word.name=Alternative Word
+spell.fear_word.name=Fear Word
+spell.preventing_word.name=Preventing Word
+
+spell.blindness.name=Blindnes
+spell.rampart.name=Rampart
+spell.natural_attack.name=Natural Attack
+spell.stamina.name=Stamina
+
+spell.jump.error=This spell does'nt work in air block
+spell.jump.error_player=This spell does'nt work in player
+
+tile.dc_dropper.name=Dropper
+tile.dc_dispenser.name=Dispenser
+tile.dc_furnace.name=Furnace
+tile.dc_furnace_lit.name=Furnace Lit
+tile.dc_hopper.name=Hopper
+tile.dc_chest.name=Chest
+
+gui.info.spell.pression=Occasionne des degats a l'entite visée
+gui.info.spell.jump=Occasionne des dégats en zone
+gui.info.spell.flood=Propulse le joueur sur l'entité
+gui.info.spell.divin_sword=Occasionne des dégats en croix
+
+gui.info.spell.injuring_word=Occasionne des degats a l'entite visée
+gui.info.spell.alternative_word=Occasionne des dégats en zone
+gui.info.spell.fear_word=Propulse le joueur sur l'entité
+gui.info.spell.preventing_word=Occasionne des dégats en croix
+
+gui.info.spell.blindness=Occasionne des degats a l'entite visée
+gui.info.spell.natural_attack=Occasionne des dégats en zone
+gui.info.spell.rampart=Propulse le joueur sur l'entité
+gui.info.spell.stamina=Occasionne des dégats en croix
+
+info.bar.xp.job=+ %s %s (%s/%s)
+
+
+#Advancements
+advancements.incraftam.root.title=Incraftam
+advancements.incraftam.root.description=Where it all began
+
+toast.level_up.title=New Level :
+toast.level_up.description=You reached the level

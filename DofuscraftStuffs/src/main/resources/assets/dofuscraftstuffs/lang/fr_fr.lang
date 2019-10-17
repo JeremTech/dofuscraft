@@ -1,0 +1,49 @@
+// GUI
+itemGroup.DofuscraftArmors=Dofuscraft - Combat
+itemGroup.DofuscraftTools=Dofuscraft - Outils
+
+// Armors
+item.adventurer_armor_helmet.name=Chapeau de l'aventurier
+item.adventurer_armor_chestplate.name=Amulette de l'aventurier
+item.adventurer_armor_leggings.name=Ceinture de l'aventurier
+item.adventurer_armor_boots.name=Sandales de l'aventurier
+item.beginner_armor_helmet.name=Casque du débutant
+item.beginner_armor_chestplate.name=Amulette du débutant
+item.beginner_armor_leggings.name=Ceinture du débutant
+item.beginner_armor_boots.name=Sandales du débutant
+item.antome_cap.name=Coiffe antome
+item.animulette.name=Animulette
+
+// Weapons
+item.beginner_sword.name=Epée tulante
+item.beginner_shield.name=Bouclier du débutant
+
+// Tools
+item.ash_pickaxe.name=Pioche en bois de frêne
+item.bronze_pickaxe.name=Pioche en bronze
+item.cobalt_pickaxe.name=Pioche en kobalte
+item.iron_pickaxe.name=Pioche en fer
+item.copper_pickaxe.name=Pioche en cuivre
+item.ash_axe.name=Hache en bois de frêne
+item.bronze_axe.name=Hache en bronze
+item.cobalt_axe.name=Hache en kobalte
+item.iron_axe.name=Hache en fer
+item.copper_axe.name=Hache en cuivre
+item.ash_sickle.name=Faucille en bois de frêne
+item.bronze_sickle.name=Faucille en bronze
+item.cobalt_sickle.name=Faucille en kobalte
+item.iron_sickle.name=Faucille en fer
+item.copper_sickle.name=Faucille en cuivre
+item.ash_scythe.name=Faux en bois de frêne
+item.bronze_scythe.name=Faux en bronze
+item.cobalt_scythe.name=Faux en kobalte
+item.iron_scythe.name=Faux en fer
+item.copper_scythe.name=Faux en cuivre
+
+// Messages
+dofuscraft.plant.break.error=La plante n'est encore prête à être récoltée !
+
+//Tooltip
+tooltip.candestroy=Vous pouvez casser :
+tooltip.pushto=Appuyez sur
+tooltip.toshow=pour afficher plus d'infos

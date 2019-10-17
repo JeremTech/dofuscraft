@@ -1,0 +1,16 @@
+[
+    {
+      "modid": "dofuscraftstuffs",
+      "name": "Dofuscraft Stuffs",
+      "description": "Secondary mod for Dofuscraft modpack",
+      "version": "${version}",
+      "mcversion": "${mcversion}",
+      "url": "https://dofuscraft.ovh",
+      "updateUrl": "",
+      "authorList": ["JeremTech, Zom', MysteriousDevs"],
+      "credits": "Code by JeremTech, Zom' & MysteriousDevs, resources by Astraure",
+      "logoFile": "logo.png",
+      "screenshots": [],
+      "dependencies": ["dofuscraftcore"]
+    }
+]

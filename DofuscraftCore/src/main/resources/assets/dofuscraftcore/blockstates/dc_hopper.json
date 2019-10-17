@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "facing=down": { "model": "dofuscraftcore:dc_hopper_down" },
+        "facing=north": { "model": "dofuscraftcore:dc_hopper_side" },
+        "facing=south": { "model": "dofuscraftcore:dc_hopper_side", "y": 180 },
+        "facing=west": { "model": "dofuscraftcore:dc_hopper_side", "y": 270 },
+        "facing=east": { "model": "dofuscraftcore:dc_hopper_side", "y": 90 }
+    }
+}

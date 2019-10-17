@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "dofuscraftcore:dc_chest" },
+        "facing=south": { "model": "dofuscraftcore:dc_chest", "y": 180 },
+        "facing=west":  { "model": "dofuscraftcore:dc_chest", "y": 270 },
+        "facing=east":  { "model": "dofuscraftcore:dc_chest", "y": 90 }
+    }
+}

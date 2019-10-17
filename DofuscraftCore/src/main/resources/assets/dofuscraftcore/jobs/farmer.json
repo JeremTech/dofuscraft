@@ -1,0 +1,44 @@
+{
+  "1" : {
+    "resource" : "dofuscraftcore:wheat",
+    "level" : 1,
+    "reward" : 5,
+    "location" : "Incraftam"
+  },
+  "2" : {
+    "resource" : "dofuscraftcore:barley",
+    "level" : 20,
+    "reward" : 7,
+    "location" : "Incraftam"
+  },
+  "3" : {
+    "resource" : "dofuscraftcore:oats",
+    "level" : 40,
+    "reward" : 9,
+    "location" : "Incraftam"
+  },
+  "4" : {
+    "resource" : "dofuscraftcore:hop",
+    "level" : 60,
+    "reward" : 11,
+    "location" : "Incraftam"
+  },
+  "5" : {
+    "resource" : "dofuscraftcore:flax",
+    "level" : 80,
+    "reward" : 15,
+    "location" : "Incraftam"
+  },
+  "6" : {
+    "resource" : "dofuscraftcore:rye",
+    "level" : 100,
+    "reward" : 15,
+    "location" : "Incraftam"
+  },
+  "7" : {
+    "resource" : "dofuscraftcore:hemp",
+    "level" : 140,
+    "reward" : 19,
+    "location" : "Incraftam"
+  }
+}

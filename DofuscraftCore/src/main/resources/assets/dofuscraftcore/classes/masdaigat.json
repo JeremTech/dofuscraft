@@ -1,0 +1,30 @@
+{
+  "1" : {
+    "icon" : "pression_spell_icon.png",
+    "name": "spell.pression.name",
+    "level" : 1,
+    "damage" : 10,
+    "info": "gui.info.spell.pression"
+  },
+  "2" : {
+    "icon" : "jump_spell_icon.png",
+    "name": "spell.jump.name",
+    "level" : 1,
+    "damage" : 10,
+    "info": "gui.info.spell.jump"
+  },
+  "3" : {
+    "icon" : "flood_spell_icon.png",
+    "name": "spell.flood.name",
+    "level" : 4,
+    "damage" : 4,
+    "info": "gui.info.spell.flood"
+  },
+  "4" : {
+    "icon" : "divine_sword_spell_icon.png",
+    "name": "spell.divin_sword.name",
+    "level" : 10,
+    "damage" : 15,
+    "info": "gui.info.spell.divin_sword"
+  }
+}

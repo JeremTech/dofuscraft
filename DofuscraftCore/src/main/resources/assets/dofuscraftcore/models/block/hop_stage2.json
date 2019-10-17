@@ -1,0 +1,6 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "dofuscraftcore:blocks/hop_stage2"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "1" : {
+    "resource" : "dofuscraftcore:iron_ore",
+    "level" : 1
+  },
+  "2" : {
+    "resource" : "dofuscraftcore:copper_ore",
+    "level" : 20
+  },
+  "3" : {
+    "resource" : "dofuscraftcore:bronze_ore",
+    "level" : 40
+  },
+  "4" : {
+    "resource" : "dofuscraftcore:kobalt_ore",
+    "level" : 60
+  },
+  "5" : {
+    "resource" : "dofuscraftcore:tin_ore",
+    "level" : 100
+  }
+}

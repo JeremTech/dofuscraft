@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=top": {
+      "model": "gold_block"
+    },
+    "half=bottom": {
+      "model": "gold_block"
+    }
+  }
+}

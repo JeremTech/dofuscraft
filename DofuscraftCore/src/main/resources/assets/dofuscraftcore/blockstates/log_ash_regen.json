@@ -1,0 +1,15 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "end": "dofuscraftcore:blocks/log_ash_top",
+      "side": "dofuscraftcore:blocks/log_ash"
+    },
+    "model": "cube_column",
+    "uvlock": true
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}

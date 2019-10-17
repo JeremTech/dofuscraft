@@ -1,0 +1,45 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "dofuscraftcore:blocks/normal_double",
+		"particle": "dofuscraftcore:blocks/normal_double"
+	},
+	"elements": [
+		{
+			"from": [-15, 0, 1],
+			"to": [15, 10, 15],
+			"faces": {
+				"north": {"uv": [1.75, 4.125, 5.5, 5.375], "texture": "#0"},
+				"east": {"uv": [0, 4.125, 1.75, 5.375], "texture": "#0"},
+				"south": {"uv": [7.25, 4.125, 11, 5.375], "texture": "#0"},
+				"west": {"uv": [5.5, 4.125, 7.25, 5.375], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 14], "texture": "#missing"},
+				"down": {"uv": [1.75, 0, 5.5, 1.75], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-15, 9, 1],
+			"to": [15, 14, 15],
+			"faces": {
+				"north": {"uv": [1.75, 1.75, 5.5, 2.375], "texture": "#0"},
+				"east": {"uv": [0, 1.75, 1.75, 2.375], "texture": "#0"},
+				"south": {"uv": [7.25, 1.75, 11, 2.375], "texture": "#0"},
+				"west": {"uv": [5.5, 1.75, 7.25, 2.375], "texture": "#0"},
+				"up": {"uv": [5.5, 2.375, 9.25, 4.125], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 14], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [-1, 7, 0],
+			"to": [1, 11, 1],
+			"faces": {
+				"north": {"uv": [0.125, 0.125, 0.375, 0.625], "texture": "#0"},
+				"east": {"uv": [0, 0.125, 0.125, 0.625], "texture": "#0"},
+				"south": {"uv": [0, 0, 2, 4], "texture": "#missing"},
+				"west": {"uv": [0.625, 0.125, 0.75, 0.625], "texture": "#0"},
+				"up": {"uv": [0.125, 0, 0.375, 0.125], "texture": "#0"},
+				"down": {"uv": [0.375, 0, 0.625, 0.125], "texture": "#0"}
+			}
+		}
+	]
+}

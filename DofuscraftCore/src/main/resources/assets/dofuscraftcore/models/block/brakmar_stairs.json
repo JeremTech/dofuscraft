@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "dofuscraftcore:blocks/brick_brakmar",
+    "top": "dofuscraftcore:blocks/brick_brakmar",
+    "side": "dofuscraftcore:blocks/brick_brakmar"
+  }
+}

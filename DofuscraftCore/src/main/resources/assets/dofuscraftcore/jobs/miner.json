@@ -1,0 +1,32 @@
+{
+  "1" : {
+    "resource" : "dofuscraftcore:iron",
+    "level" : 1,
+    "reward" : 10,
+    "location" : "Incraftam"
+  },
+  "2" : {
+    "resource" : "dofuscraftcore:copper",
+    "level" : 20,
+    "reward" : 14,
+    "location" : "Incraftam"
+  },
+  "3" : {
+    "resource" : "dofuscraftcore:bronze",
+    "level" : 40,
+    "reward" : 20,
+    "location" : "Incraftam"
+  },
+  "4" : {
+    "resource" : "dofuscraftcore:cobalt",
+    "level" : 60,
+    "reward" : 22,
+    "location" : "Incraftam"
+  },
+  "5" : {
+    "resource" : "dofuscraftcore:tin",
+    "level" : 100,
+    "reward" : 30,
+    "location" : "Incraftam"
+  }
+}

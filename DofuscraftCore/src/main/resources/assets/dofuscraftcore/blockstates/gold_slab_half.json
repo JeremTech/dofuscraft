@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom": {
+      "model": "dofuscraftcore:gold_slab_bottom"
+    },
+    "half=top": {
+      "model": "dofuscraftcore:gold_slab_top"
+    }
+  }
+}

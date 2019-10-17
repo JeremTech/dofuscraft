@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "dofuscraftcore:log_ash"
+    },
+    "axis=z": {
+      "model": "dofuscraftcore:log_ash",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "dofuscraftcore:log_ash",
+      "x": 90,
+      "y": 90
+    },
+    "axis=none": {
+      "model": "dofuscraftcore:log_ash_bark"
+    }
+  }
+}

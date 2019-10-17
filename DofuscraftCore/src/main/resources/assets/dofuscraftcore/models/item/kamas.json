@@ -1,0 +1,6 @@
+{
+  "parent": "dofuscraftcore:item/kamas_model",
+  "textures": {
+    "layer0": "dofuscraftcore:items/kamas"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "dofuscraftcore:blocks/brick_bonta",
+    "top": "dofuscraftcore:blocks/brick_bonta",
+    "side": "dofuscraftcore:blocks/brick_bonta"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "dofuscraftcore:blocks/copper_ore"
+  }
+}

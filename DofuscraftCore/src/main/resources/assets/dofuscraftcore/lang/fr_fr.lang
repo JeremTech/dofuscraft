@@ -1,0 +1,263 @@
+#JEI
+
+jei.description.wheat.get=Le blé peut être obtenue avec le niveau 1 du metier de paysan
+jei.description.barley.get=L'orge peut être obtenue avec le niveau 20 du metier de paysan
+jei.description.oats.get=L'avoine peut être obtenue avec le niveau 40 du metier de paysan
+jei.description.hop.get=L'houblon peut être obtenue avec le niveau 60 du metier de paysan
+jei.description.flax.get=Le lin peut être obtenue avec le niveau 80 du metier de paysan
+jei.description.rye.get=Le seigle peut être obtenue avec le niveau 100 du metier de paysan
+jei.description.hemp.get=La chanvre peut être obtenue avec le niveau 140 du metier de paysan
+
+jei.description.nettles.get=L'ortie peut être obtenue avec le niveau 1 du metier d'alchimiste
+jei.description.sage.get=La sauge peut être obtenue avec le niveau 20 du metier d'alchimiste
+jei.description.five_leaf_clover.get=Le trèfle à 5 feuilles être obtenue avec le niveau 40 du metier d'alchimiste
+jei.description.wild_mint.get=La menthe sauvage peut être obtenue avec le niveau 60 du metier d'alchimiste
+jei.description.freyesque_orchid.get=L'orchidée freyesque peut être obtenue avec le niveau 80 du metier d'alchimiste
+jei.description.edelweiss.get=L'edelweiss peut être obtenue avec le niveau 100 du metier d'alchimiste
+
+jei.description.iron.get=Le fer peut être obtenue avec le niveau 1 du metier de mineur
+jei.description.copper.get=Le cuivre peut être obtenue avec le niveau 20 du metier de mineur
+jei.description.bronze.get=Le bronze peut être obtenue avec le niveau 40 du metier de mineur
+jei.description.kobalt.get=Le kobalt peut être obtenue avec le niveau 60 du metier de mineur
+jei.description.tin.get=L'étain peut être obtenue avec le niveau 100 du metier de mineur
+
+crafting.dofuscraft=Craft Dofuscraft
+
+#GUI
+itemGroup.DCTabItems=Dofuscraft - Items
+itemGroup.DCTabBlocks=Dofuscraft - Blocs
+
+gui.label.player=Joueurs
+gui.label.class=Classe
+gui.label.level=Niveau
+gui.label.job=Métier
+
+menu.play=Jouer
+menu.staff.singleplayer=Solo
+menu.staff.local_server=Serveur local
+menu.staff.multiplayer=Multijoueur
+menu.info.impossible=Impossible d'obtenir les informations distantes
+
+dc.container.craftingtable.job=Métier:
+dc.container.craftingtable.level=Niveau:
+dc.container.craftingtable.xp=XP
+
+container.dc_crafting_table=Crafting
+
+gui.classe.reset=Changer de classe
+gui.classe.reset.yes=Oui
+gui.classe.reset.no=Non
+gui.classe.reset.warning=Attention !!!
+gui.classe.reset.disclamer=Ceci est définitif !
+gui.class.selection=Selectionnez votre classe :
+
+gui.player_info.classe.any=Aucune
+
+#Jobs
+
+job.alchemist=Alchimiste
+job.lumberjack=Bûcheron
+job.miner=Mineur
+job.peasant=Paysan
+job.jeweler=Bijoutier
+job.tailor=Tailleur
+job.shoemaker=Cordonnier
+
+#Blocks
+
+tile.bonta_slab_half.name=Dalle de brique de Bonta
+tile.brakmar_slab_half.name=Dalle de brique de Brakmar
+tile.gold_slab_half.name=Dalle en or
+tile.invisible_light.name=Lampe invisible
+tile.stone_slab_block.name=Bloc de dalle de roche
+tile.sandstone_slab_block.name=Bloc de dalle de grès
+tile.bonta_stairs.name=Escalier de brique de Bonta
+tile.brakmar_stairs.name=Escalier en brique de Brakmar
+tile.gold_stairs.name=Escalier en or
+tile.dofuscraft_crafting_table.name=Table de craft de Dofuscraft
+tile.pink_leaves.name=Feuilles roses
+tile.brick_bonta.name=Brique de Bonta
+tile.brick_brakmar.name=Brique de Brakmar
+
+#Books
+item.alchemist_book.name=Manuscrit de l'alchimiste
+item.lumberjack_book.name=Manuscrit du bûcheron
+item.miner_book.name=Manuscrit du mineur
+item.peasant_book.name=Manuscrit du paysan
+item.jeweler_book.name=Manuscrit du bijoutier
+item.tailor_book.name=Manuscrit du tailleur
+item.shoemaker_book.name=Manuscrit du cordonnier
+
+#Items
+
+item.aminite_volve.name=Volve d'aminite
+item.mushroom.name=Champignon
+item.intangible_meat.name=Viande intangible
+item.celestial_wool.name=Laine céleste
+item.bouftou_spit.name=Bave de bouftou
+item.internal_fire.name=Feu intérieur
+item.eternal_ash.name=Cendre éternelle
+item.incraftam_relic.name=Relique d'Incraftam
+item.chafer_bone.name=Os de chafer
+item.chapardam_tail.name=Queue de chapardam
+item.gloot_skin.name=Peau de gloot
+item.potable_water.name=Eau potable
+item.kardorim_skull.name=Crâne de Kardorim
+item.diaphane_petal.name=Pétale diaphane
+item.tofu_egg.name=Œuf de tofu
+item.chimeric_feather.name=Plume chimérique
+item.milimulou_hair.name=Poils du Milimulou
+item.milimulou_scalp.name=Scalp de Milimulou
+item.magical_cure.name=Poudre de perlinpainpain
+item.intangible_bidoche.name=Bidoche intangible
+item.frelated_meat.name=Viande frelatée
+item.baker_yeast.name=Levure de boulanger
+item.small_care_potion.name=Potion de Mini Soin
+item.agglomerated_planks.name=Planche agglomérée
+item.ferrite.name=Ferrite
+
+#Fluids
+
+fluid.purple_liquid=Eau violette
+fluid.blue_soul_incraftam=Eau bleu âme d'Incraftam
+fluid.merdroite_water=Eau de la Merdroite
+fluid.pichon_water=Eau du Pichon
+fluid.newa_area_water=Eau de la Newa Area
+fluid.incraftam_lake_water=Eau du lac d'Incraftam
+
+#Kamas
+
+item.kamas.name=Kamas
+item.kamas10.name=Sac de 10 Kamas
+item.kamas100.name=Sac de 100 Kamas
+item.kamas1k.name=Coffre de 1 000 Kamas
+item.kamas10k.name=Coffre de 10 000 Kamas
+item.kamas100k.name=Pack de 100 000 Kamas
+
+#Crops
+
+item.wheat.name=Blé
+item.barley.name=Orge
+item.oats.name=Avoine
+item.hop.name=Houblon
+item.flax.name=Lin
+item.rye.name=Seigle
+item.hemp.name=Chanvre
+tile.dofuscraft_wheat.name=Blé
+tile.dofuscraft_barley.name=Orge
+tile.dofuscraft_oats.name=Avoine
+tile.dofuscraft_hop.name=Houblon
+tile.dofuscraft_flax.name=Lin
+tile.dofuscraft_rye.name=Seigle
+tile.dofuscraft_hemp.name=Chanvre
+
+#Plants
+
+tile.small_nettle.name=Ortie coupée
+tile.nettle.name=Ortie
+tile.small_edelweiss.name=Edelweiss coupée
+tile.edelweiss.name=Edelweiss
+tile.small_freyesque_orchid.name=Orchidée freyesque coupée
+tile.freyesque_orchid.name=Orchidée freyesque
+tile.small_wild_mint.name=Menthe sauvage coupée
+tile.wild_mint.name=Menthe sauvage
+tile.small_sage.name=Sauge coupée
+tile.sage.name=Sauge
+tile.small_five_leaf_clover.name=Trèfle à 5 feuilles coupé
+tile.five_leaf_clover.name=Trèfle à 5 feuilles
+item.five_leaf_clover_item.name=Trèfle à 5 feuilles
+item.edelweiss_item.name=Edelweiss
+item.freyesque_orchid_item.name=Orchidée freyesque
+item.nettles_item.name=Ortie
+item.sage_item.name=Sauge
+item.wild_mint_item.name=Menthe sauvage
+
+#Ores
+
+item.iron.name=Fer
+item.copper.name=Cuivre
+item.bronze.name=Bronze
+item.cobalt.name=Kobalte
+item.tin.name=Etain
+tile.kobalt_regen.name=Reste de minerai de kobalte
+tile.kobalt_ore.name=Minerai de kobalte
+tile.copper_regen.name=Reste de minerai de cuivre
+tile.copper_ore.name=Minerai de cuivre
+tile.iron_regen.name=Reste de minerai de fer
+tile.iron_ore.name=Minerai de fer
+tile.tin_regen.name=Reste de minerai d'étain
+tile.tin_ore.name=Minerai d'étain
+tile.bronze_regen.name=Reste de minerai de bronze
+tile.bronze_ore.name=Minerai de bronze
+
+#Logs
+
+tile.log_ash.name=Bois de frêne
+tile.log_ash_regen.name=Bois de frêne (Régénérateur)
+
+#Class's Items
+item.masdaigat_sword.name=Epée du Masdaigat
+item.eniripsa.name=Eniripsa
+
+#Messages
+
+dofuscraft.alchemist.break.error=Il faut avoir le métier d'alchimiste niveau %s pour obtenir cette ressource !
+dofuscraft.lumberjack.break.error=Il faut avoir le métier de bûcheron niveau %s pour obtenir cette ressource !
+dofuscraft.miner.break.error=Il faut avoir le métier de mineur niveau %s pour obtenir cette ressource !
+dofuscraft.peasant.break.error=Il faut avoir le métier de paysan niveau %s pour obtenir cette ressource !
+
+#Level Command
+
+dofuscraft.commands.niveau.success=%s %s %s au joueur %s pour le métier "%s"
+dofuscraft.commands.sousniveau.success=%s %s %s au joueur %s
+dofuscraft.commands.niveau.usage=/niveau <niveau|sniveau> <add|remove> <metier> <nbrXP> <joueur>
+dofuscraft.commands.niveau.error=Arguments manquants : /niveau <niveau|sniveau> <add|remove> <metier> <nbrXP> <joueur>
+dofuscraft.commands.niveau.joberror=%s n'est pas un métier valide
+
+dofuscraft.commands.niveau.niveauone=niveau a été
+dofuscraft.commands.niveau.niveau=niveaux ont été
+dofuscraft.commands.niveau.sousniveauone=sous-niveau a été
+dofuscraft.commands.niveau.sousniveau=sous-niveaux ont été
+dofuscraft.commands.niveau.addone=ajouté
+dofuscraft.commands.niveau.add=ajoutés
+dofuscraft.commands.niveau.removeone=retiré
+dofuscraft.commands.niveau.remove=retirés
+
+#Class Command
+
+dofuscraft.commands.classe.success=La classe d'ID "%s" a bien été attribuée au joueur %s
+dofuscraft.commands.classe.reset=Les statistiques (classe et XP) du joueur %s ont bien été réinitialisés
+dofuscraft.commands.classe.usage=/classe <set|reset> <joueur> <id>
+dofuscraft.commands.classe.error=Arguments manquants ou erronés : /classe <set|reset> <joueur> <id>
+dofuscraft.commands.classe.iderror=%s n'est pas une classe valide
+
+#Display Command
+
+dofuscraft.commands.display.success=La GUI "%s" a été affichée avec succès à %s
+dofuscraft.commands.display.error=Arguments manquants ou erronés : /display <gui> <player>
+dofuscraft.commands.display.usage=/display <gui> <player>
+dofuscraft.commands.display.guierror="%s" n'est pas une GUI valide !
+
+#Tooltip
+
+tooltip.book.level=Niveau
+
+#Keyboards
+
+key.dofuscraft=Dofuscraft
+key.dofuscraft.player_stats=Afficher les informations du joueur
+
+#Spells
+
+spell.pression.name=Pression
+spell.flood.name=Déferlement
+spell.divin_sword.name=Epée Divine
+spell.jump.name=Bond
+
+spell.injuring_word.name=Mot Blessant
+spell.alternative_word.name=Mot Alternatif
+spell.fear_word.name=Mot de Frayeur
+spell.preventing_word.name=Mot de Prévention
+
+spell.jump.error=Ce sort ne fonctionne pas sur un block d'air
+spell.jump.error_player=Ce sort ne fonctionne pas sur un joueur

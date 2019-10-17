@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=top": {
+      "model": "dofuscraftcore:brick_bonta"
+    },
+    "half=bottom": {
+      "model": "dofuscraftcore:brick_bonta"
+    }
+  }
+}

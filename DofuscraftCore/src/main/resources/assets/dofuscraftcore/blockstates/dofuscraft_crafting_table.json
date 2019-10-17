@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "facing=up": {
+      "model": "dofuscraftcore:dofuscraft_crafting_table"
+    },
+    "facing=south": {
+      "model": "dofuscraftcore:dofuscraft_crafting_table"
+    },
+    "facing=east": {
+      "model": "dofuscraftcore:dofuscraft_crafting_table",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "dofuscraftcore:dofuscraft_crafting_table",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "dofuscraftcore:dofuscraft_crafting_table",
+      "y": 180
+    }
+  }
+}

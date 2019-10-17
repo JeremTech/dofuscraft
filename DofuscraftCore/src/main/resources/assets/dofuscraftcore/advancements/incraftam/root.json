@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "dofuscraftcore:iron_ore"
+        },
+        "title": {
+            "translate": "advancements.incraftam.root.title"
+        },
+        "description": {
+            "translate": "advancements.incraftam.root.description"
+        },
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+        "announce_to_chat": false
+    },
+    "criteria": {
+        "crafting_table": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:crafting_table"
+                    }
+                ]
+            }
+        }
+    }
+}

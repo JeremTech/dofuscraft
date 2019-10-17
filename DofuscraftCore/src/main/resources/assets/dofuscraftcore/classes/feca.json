@@ -1,0 +1,30 @@
+{
+  "1" : {
+    "icon" : "blindness_spell_icon.png",
+    "name": "spell.blindness.name",
+    "level" : 1,
+    "damage" : 10,
+    "info": "gui.info.spell.blindness"
+  },
+  "2" : {
+    "icon" : "natural_attack_spell_icon.png",
+    "name": "spell.natural_attack.name",
+    "level" : 1,
+    "damage" : 10,
+    "info": "gui.info.spell.natural_attack"
+  },
+  "3" : {
+    "icon" : "rampart_spell_icon.png",
+    "name": "spell.rampart.name",
+    "level" : 4,
+    "damage" : 4,
+    "info": "gui.info.spell.rampart"
+  },
+  "4" : {
+    "icon" : "stamina_spell_icon.png",
+    "name": "spell.stamina.name",
+    "level" : 10,
+    "damage" : 15,
+    "info": "gui.info.spell.stamina"
+  }
+}

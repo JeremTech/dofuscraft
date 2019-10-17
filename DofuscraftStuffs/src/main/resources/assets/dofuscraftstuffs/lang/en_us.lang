@@ -1,0 +1,86 @@
+#GUI
+itemGroup.DofuscraftArmors=Dofuscraft - Combat
+itemGroup.DofuscraftTools=Dofuscraft - Tools
+
+#Armors
+item.adventurer_armor_helmet.name=Chapeau de l'aventurier
+item.adventurer_armor_chestplate.name=Amulette de l'aventurier
+item.adventurer_armor_leggings.name=Ceinture de l'aventurier
+item.adventurer_armor_boots.name=Sandales de l'aventurier
+item.beginner_armor_helmet.name=Casque du débutant
+item.beginner_armor_chestplate.name=Amulette du débutant
+item.beginner_armor_leggings.name=Ceinture du débutant
+item.beginner_armor_boots.name=Sandales du débutant
+item.antome_cap.name=Coiffe antome
+item.animulette.name=Animulette
+
+item.forcesque_belt.name=Forcesque Belt
+
+item.luck_belt.name=Luck Belt
+item.strength_boots.name=Strength Boots
+item.bottananas.name=Bottananas
+item.inlays_boots.name=Inlays Boots
+item.spamette_belt.name=Spamette Belt
+item.kamatongues.name=Kamatongues
+item.kamature_belt.name=Kamature Belt
+item.fecaflip.name=Fecaflip
+item.tofuesques_sandals.name=Tofuesques Sandals
+item.buted_cat_boots.name=Buted Cat Boots
+item.bouftou_boots.name=Bouftou Boots
+item.einekeineux.name=Einekeineux
+item.intelligence_sandals.name=Intelligence Sandals
+item.agile_boots.name=Agile Boots
+item.kluh_boots.name=Kluh Boots
+item.boots_of_luck.name=Luck Boots
+
+item.nail_necklace.name=Nail Necklace
+item.smesme.name=Smesme
+item.puny_owl_pendant.name=Puny Owl Pendant
+item.bouftou_tear.name=Bouftou Tear
+item.sram_amulet.name=Sram Amulet
+item.adventurer_amulet.name=Adventurer Amulet
+item.owl_amulet.name=Owl Amulet
+item.bear_amulet.name=Bear Amulet
+item.wolf_amulet.name=Wolf Amulet
+
+item.louffeur.name=Louffeur
+item.floude.name=Floude
+item.lisseur.name=Lisseur
+item.komintot_headband.name=Komintot Headband
+item.vitality_headband.name=Vitality Headband
+item.pandawushu_headband.name=Pandawushu Headband
+item.wouaf_cap.name=Wouaf Cap
+
+#Weapons
+item.beginner_sword.name=Epée tulante
+item.beginner_shield.name=Beginner Shield
+
+#Tools
+item.ash_pickaxe.name=Ash Wood Pickaxe
+item.bronze_pickaxe.name=Bronze Pickaxe
+item.cobalt_pickaxe.name=Kobalt Pickaxe
+item.iron_pickaxe.name=Iron Pickaxe
+item.copper_pickaxe.name=Copper Pickaxef
+item.ash_axe.name=Ash Wood Axe
+item.bronze_axe.name=Bronze Axe
+item.cobalt_axe.name=Kobalt Axe
+item.iron_axe.name=Iron Axe
+item.copper_axe.name=Copper Axe
+item.ash_sickle.name=Ash Wood Sickle
+item.bronze_sickle.name=Bronze Sickle
+item.cobalt_sickle.name=Kobalt Sickle
+item.iron_sickle.name=Iron Sickle
+item.copper_sickle.name=Copper Sickle
+item.ash_scythe.name=Ash Wood Scythe
+item.bronze_scythe.name=Bronze Scythe
+item.cobalt_scythe.name=Kobalt Scythe
+item.iron_scythe.name=Iron Scythe
+item.copper_scythe.name=Copper Scythe
+
+#Messages
+dofuscraft.plant.break.error=La plante n'est encore prête à être récoltée !
+
+#Tooltip
+tooltip.candestroy=You can destroy :
+tooltip.pushto=Hold
+tooltip.toshow=for more Info

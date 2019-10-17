@@ -1,0 +1,38 @@
+{
+  "1" : {
+    "resource" : "dofuscraftcore:nettles_item",
+    "level" : 1,
+    "reward" : 10,
+    "location" : "Incraftam"
+  },
+  "2" : {
+    "resource" : "dofuscraftcore:sage_item",
+    "level" : 20,
+    "reward" : 14,
+    "location" : "Incraftam"
+  },
+  "3" : {
+    "resource" : "dofuscraftcore:five_leaf_clover_item",
+    "level" : 40,
+    "reward" : 18,
+    "location" : "Incraftam"
+  },
+  "4" : {
+    "resource" : "dofuscraftcore:wild_mint_item",
+    "level" : 60,
+    "reward" : 22,
+    "location" : "Incraftam"
+  },
+  "5" : {
+    "resource" : "dofuscraftcore:freyesque_orchid_item",
+    "level" : 80,
+    "reward" : 26,
+    "location" : "Incraftam"
+  },
+  "6" : {
+    "resource" : "dofuscraftcore:edelweiss_item",
+    "level" : 100,
+    "reward" : 30,
+    "location" : "Incraftam"
+  }
+}

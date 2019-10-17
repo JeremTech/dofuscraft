@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom": {
+      "model": "dofuscraftcore:brakmar_slab_bottom"
+    },
+    "half=top": {
+      "model": "dofuscraftcore:brakmar_slab_top"
+    }
+  }
+}

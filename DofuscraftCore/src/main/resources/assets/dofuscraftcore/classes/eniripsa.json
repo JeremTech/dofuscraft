@@ -1,0 +1,30 @@
+{
+  "1" : {
+    "icon" : "injuring_word_icon.png",
+    "name": "spell.injuring_word.name",
+    "level" : 1,
+    "damage" : 10,
+    "info": "gui.info.spell.injuring_word"
+  },
+  "2" : {
+    "icon" : "alternative_word_icon.png",
+    "name": "spell.alternative_word.name",
+    "level" : 1,
+    "damage" : 10,
+    "info": "gui.info.spell.alternative_word"
+  },
+  "3" : {
+    "icon" : "fear_word_icon.png",
+    "name": "spell.fear_word.name",
+    "level" : 4,
+    "damage" : 4,
+    "info": "gui.info.spell.fear_word"
+  },
+  "4" : {
+    "icon" : "preventing_word_icon.png",
+    "name": "spell.preventing_word.name",
+    "level" : 10,
+    "damage" : 15,
+    "info": "gui.info.spell.preventing_word"
+  }
+}

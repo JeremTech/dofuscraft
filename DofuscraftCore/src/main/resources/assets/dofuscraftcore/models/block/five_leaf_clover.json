@@ -1,0 +1,6 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "dofuscraftcore:blocks/five_leaf_clover_block"
+  }
+}
